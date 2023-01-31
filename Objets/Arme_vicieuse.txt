@@ -1,0 +1,6 @@
+Arme vicieuse
+[ Vicious Weapon ]
+Arme (toutes), rare
+Lorsque vous obtenez un 20 naturel à votre jet d'attaque avec cette arme magique, 
+votre coup critique inflige 7 dégâts supplémentaires du type correspondant à l'arme.
+Dungeon Master´s Guide (SRD)
