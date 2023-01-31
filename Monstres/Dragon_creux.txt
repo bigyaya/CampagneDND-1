@@ -1,0 +1,33 @@
+Dragon creux
+[ Hollow Dragon ]
+Mort-vivant de taille TG, tout alignement
+Classe d'armure 19 (armure naturelle)
+Points de vie 241 (21d12 + 105)
+Vitesse 12 m, vol 24 m
+FOR
+23 (+6)DEX
+12 (+1)CON
+21 (+5)INT
+16 (+3)SAG
+13 (+1)CHA
+21 (+5)
+Jets de sauvegarde Con +11, Int+9, Wis +7, Cha +11
+Compétences Arcanes +9, Histoire +15, Perception +13
+Résistances aux dégâts nécrotique
+Immunités aux dégâts poison, radiant
+Immunités aux étatscharmé, assourdi, épuisement, effrayé, paralysé, empoisonné,
+Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23
+Langues commun, draconique
+Puissance 18 (20000 PX)     Bonus de maîtrise +6
+Résistance légendaire (3/jour).
+Reconstruction.
+Actions
+Attaques multiples.
+Morsure.
+Griffes.
+Présence sapante.
+Souffle radiant (Recharge 5-6).
+Actions légendaires
+Griffes.
+Lien fantomatique (coûte 2 actions).
+Écailles en plein essor (coûte 3 actions).

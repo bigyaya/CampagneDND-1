@@ -1,0 +1,24 @@
+
+Chèvre géante
+[ Giant Goat ]
+Bête de taille G, sans alignement
+Classe d'armure 11 (armure naturelle)
+Points de vie 19 (3d10 + 3)
+Vitesse 12 m
+FOR
+17 (+3)DEX
+11 (+0)CON
+12 (+1)INT
+3 (-4)SAG
+12 (+1)CHA
+6 (-2)
+Sens Perception passive 11
+Langues —
+Puissance 1/2 (100 PX)
+Charge. Si la chèvre se déplace d'au moins 6 mètres en ligne droite vers une cible, puis la touche lors d'une attaque avec un coup de tête dans le même tour, la cible subit 5 (2d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 ou tomber à terre.
+
+Stable. La chèvre a un avantage aux jets de sauvegarde de Force et de Dextérité contre les effets susceptibles de la faire tomber à terre.
+
+Actions
+Coup de tête. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 8 (2d4 + 3) dégâts contondants.
+
